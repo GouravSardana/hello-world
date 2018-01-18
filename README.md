@@ -1,3 +1,3 @@
 # hello-world
-Thhis is my First Repository.
+This is my First Repository.
 yeah i read that repo
